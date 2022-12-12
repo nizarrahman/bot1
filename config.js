@@ -31,7 +31,7 @@ global.sig = 'https://instagram.com/drak_ipul123'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6285755827288'
+global.swa = 'wa.me/62'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
