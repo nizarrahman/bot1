@@ -36,12 +36,11 @@ global.swb = 'https://nizarr.my.id'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085755827288'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '088279268363'
-global.ppulsa = '085755827288'
+global.pgopay = '081386945391'
+global.ppulsa = '081386945391'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '18503124712'
