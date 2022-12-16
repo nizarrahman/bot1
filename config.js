@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
+global.sig = 'https://instagram.com/nizarrrahman.f_'
+global.syt = '-'
+global.sgh = 'https://github.com/nizarrahman'
+global.sgc = 'https://chat.whatsapp.com/CuyECIgo3oN6YjDgYsPSxJ'
 global.swa = 'wa.me/62'
-global.swb = 'https://'
+global.swb = 'https://nizarr.my.id'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -44,19 +44,19 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6285755827288'
-global.namebot = 'Miko botz✓'
-global.nameown = 'ᴹᴿ᭄ Miko©'
+global.nomorbot = '18503124712'
+global.nomorown = '6281386945391'
+global.namebot = 'Nai-Botz'
+global.nameown = 'ᴹᴿ᭄ Nizar©'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285755827288', 'miko kun', 'true']
+  ['6281386945391', 'Nizar', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [6285755827288] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [6281386945391] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Miko botz✓ | By ᴹᴿ᭄ miko' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ miko'
-global.wm3 = 'Miko botz | By ᴹᴿ᭄ Miko'
+global.wm = 'Nai botz✓ | By ᴹᴿ᭄ Nizar' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ Nizar'
+global.wm3 = 'Nai botz | By ᴹᴿ᭄ Nizar'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ Miko' 
-global.packname = 'ᴹᴿ᭄ Miko'
+global.titlebot = `Nai-Botzラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ Nizar' 
+global.packname = 'ᴹᴿ᭄ Nizat'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/3dc0fb3c7ccc64efcbfce.jpg'
 global.botintro = 'Hallo, Kenalin saya miko BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/3dc0fb3c7ccc64efcbfce.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ miko ×፝֟͜×'
+global.nameowner = 'ᴹᴿ᭄ Nizar ×፝֟͜×'
 global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285755827288'
+global.asalowner = 'Cianjur,Jawa Barat'
+global.nomorowner = 'wa.me/6281386945391'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -372,7 +372,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `King Of Bear`
+global.stickauth = `NAI-DEV`
 
 global.multiplier = 38 // The higher, The harder levelup
 
